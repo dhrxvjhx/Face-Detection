@@ -8,7 +8,7 @@ trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 
 #image to detect faces on
-img = cv2.imread('Grp.jpg')
+img = cv2.imread('jp2.jpg')
 
 #video to capture faces
 #webcam = cv2.VideoCapture(0)
